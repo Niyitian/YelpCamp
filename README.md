@@ -1,2 +1,2 @@
-# YelpCamp_v1
+# YelpCamp
 The raw version for the YelpCamp Project
